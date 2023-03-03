@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "5SBmuJ3y9vH2RhmnyKVQubbpB2cG1N8U4MTARCQyV9oq"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_RV89cr9ZF9pfSYdTsMKOps65k4YAoRzA8GK",
+  "serviceFee": 4.25,
+  "currencyOption": "sol",
+  "name": "mountverse",
+  "logo": "",
+  "network": "devnet "
 }
